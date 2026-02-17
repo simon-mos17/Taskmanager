@@ -1,6 +1,6 @@
 package com.example.taskmanager.task;
 
-import com.example.taskmanager.NotFoundException;
+import com.example.taskmanager.task.exception.NotFoundException;
 import com.example.taskmanager.task.enums.TaskPriority;
 import com.example.taskmanager.task.enums.TaskStatus;
 import org.springframework.stereotype.Service;

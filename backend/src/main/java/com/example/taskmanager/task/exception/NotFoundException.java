@@ -1,4 +1,4 @@
-package com.example.taskmanager;
+package com.example.taskmanager.task.exception;
 
 public class NotFoundException extends RuntimeException {
     public NotFoundException(String message) {
